@@ -1,1 +1,2 @@
 "A new file is added"
+some important information
